@@ -1,0 +1,309 @@
+20250711	18:57:12	1114046c-ab40-4ca1-8332-523d6fa8de6f	/new-page.html	GET
+20250711	18:57:12	8bd73ec8-012e-4726-a797-785eb5b155ae	/.well-known/appspecific/com.chrome.devtools.json	GET
+20250711	18:57:12	77493cd7-fd40-4be5-9c8a-ac3fd32222c7	/css/style.css	GET
+20250711	18:57:12	b7da3961-dad7-4d3b-ad67-7d5dc2068d28	/img/tokyo_drift.jpg	GET
+20250711	18:57:12	2a74f542-3c66-4c94-bc8f-64f241000084	/favicon.ico	GET
+20250711	18:58:56	db634a93-863c-4056-96fd-477f29b749bb	/new-page.html	GET
+20250711	19:00:14	daef29b6-cabc-408c-b4b6-4e561c91b907	/new-page.html	GET
+20250711	19:00:14	709a39e1-b416-4b04-87b8-73b44857ca38	/.well-known/appspecific/com.chrome.devtools.json	GET
+20250711	19:00:14	a2e686f5-96e1-4f3c-aa63-17333b445972	/css/style.css	GET
+20250711	19:00:14	c0d31569-45e8-4d43-b674-1b0406a77f50	/img/tokyo_drift.jpg	GET
+20250713	17:08:04	26c4f1d7-748e-4ce9-b1ec-d638dbce2f0f	/new-page.html	GET
+20250713	17:08:04	a96878dd-b4ee-46f1-810f-ad02204b9086	/.well-known/appspecific/com.chrome.devtools.json	GET
+20250713	17:08:04	2f9ac269-2b8f-48d7-ac73-9c987c58f2cf	/css/style.css	GET
+20250713	17:08:04	d27db1b4-608c-40bd-ac09-199a916bde28	/img/tokyo_drift.jpg	GET
+20250713	17:09:45	be67ed7f-52d6-48d5-a38a-274af145b124	/new-page.html	GET
+20250713	17:09:45	f8b88012-49b3-4b2d-a865-7e3a66834e52	/.well-known/appspecific/com.chrome.devtools.json	GET
+20250713	17:09:46	6248a6a2-bb8e-4481-aae4-afa5606d89b4	/css/style.css	GET
+20250713	17:09:46	a068388c-1ffe-4fc4-a845-26d844335360	/img/tokyo_drift.jpg	GET
+20250713	17:12:44	3aaeaaa8-a432-4863-974b-a9066a2e2231	/new-page.html	GET
+20250713	17:12:44	54c31d77-c14e-4bad-90ff-eff254e9347f	/.well-known/appspecific/com.chrome.devtools.json	GET
+20250713	17:12:44	b4f812f0-64c2-4a70-87b8-66696a484af8	/css/style.css	GET
+20250713	17:12:45	a34c7008-f7b3-42c6-90be-1c77f6fab8dd	/img/tokyo_drift.jpg	GET
+20250713	17:12:47	c5ae3fe8-c452-4b09-b817-54cf797d6483	/new-page.html	GET
+20250713	17:12:47	a64e0ade-81b8-413c-ae9f-05643cae5f7b	/.well-known/appspecific/com.chrome.devtools.json	GET
+20250713	17:12:47	25d95070-efb8-42a7-8af8-7b6908fd1010	/css/style.css	GET
+20250713	17:12:47	e35eb0e8-b06d-4dbe-885c-438b30786fa5	/img/tokyo_drift.jpg	GET
+20250713	17:13:13	f616375d-1c29-4b5f-a76e-7d2c6b87e7f8	/new-page.html	GET
+20250713	17:13:13	dc8dc248-39bc-4265-a819-35cc1ce02e63	/.well-known/appspecific/com.chrome.devtools.json	GET
+20250713	17:13:13	0b97d649-5729-4545-96a0-1d56a3c24f89	/css/style.css	GET
+20250713	17:13:13	62338469-89cc-493d-aa64-ee402fd28db3	/img/tokyo_drift.jpg	GET
+20250713	17:14:15	7d3b0361-5b33-49d0-a837-7b233f4dbf2a	/new-page.html	GET
+20250713	17:14:15	62a1dd3c-f073-4247-aa8a-d69abf087912	/.well-known/appspecific/com.chrome.devtools.json	GET
+20250713	17:14:15	87f1dbfd-eb8d-447b-93c7-e45a08f40d7b	/css/style.css	GET
+20250713	17:14:15	5301b410-2bad-4adc-98c3-75278f1e444e	/img/tokyo_drift.jpg	GET
+20250713	17:15:23	87677ef8-e050-4457-9ce4-64b1403e25cc	/new-page.html	GET
+20250713	17:15:23	9b4bc20f-3070-4afa-84b8-a066cfee38e5	/.well-known/appspecific/com.chrome.devtools.json	GET
+20250713	17:15:23	87e64547-37c3-4d45-917b-64f9685be329	/css/style.css	GET
+20250713	17:15:23	6cd6c14d-c99c-42df-9c15-561255c86724	/img/tokyo_drift.jpg	GET
+20250713	17:15:34	76de496a-3c75-4e64-8684-9576d2a0f970	/new-page.html	GET
+20250713	17:15:35	9c9a3192-44bc-409b-933f-5394ee798aaf	/.well-known/appspecific/com.chrome.devtools.json	GET
+20250713	17:15:35	f2791b9f-1590-4091-a8f0-8f4c8589d269	/css/style.css	GET
+20250713	17:15:35	5f40d8f0-2dd3-43dc-ac41-bc19bc22126b	/img/tokyo_drift.jpg	GET
+20250713	17:16:09	791c5615-a81c-4196-8ede-1786f38a8b53	/new-page.html	GET
+20250713	17:16:09	bce9cce5-9da2-46f3-98dd-523c60b888d1	/.well-known/appspecific/com.chrome.devtools.json	GET
+20250713	17:16:09	97ba571c-ba8f-433c-ae4c-f9246822d92a	/css/style.css	GET
+20250713	17:16:09	86842061-1684-4262-ad1f-65d77a48f3f2	/img/tokyo_drift.jpg	GET
+20250713	19:16:57	24b5a50f-4627-4af3-9f86-848fc1d6c0a0	GET	undefined	/index
+20250713	19:16:57	d3de02d1-3c0e-46c2-a543-cce64cbd4bd1	GET	undefined	/.well-known/appspecific/com.chrome.devtools.json
+20250713	19:16:57	2bbbacba-d05d-4ba9-b280-df43e2959e0d	GET	undefined	/css/style.css
+20250713	19:22:15	bfdbd635-433a-4a0b-8caf-cac3b98d1d8e	GET	undefined	/index
+20250713	19:22:16	f9677ee8-7366-47bd-9e39-5b9f417d938a	GET	undefined	/.well-known/appspecific/com.chrome.devtools.json
+20250713	19:22:16	21a776da-1ed2-4bdf-aee1-f0090e72e60d	GET	undefined	/css/style.css
+20250713	19:23:52	f3300f38-c130-4a82-82ff-511c9fb4bdcb	OPTIONS	https://www.google.com	/
+20250713	19:23:52	6e64313a-f706-48ae-8d8b-44d03d4748c4	GET	https://www.google.com	/
+20250713	19:26:47	804ddf6d-2c13-40c8-b567-a0fbccffc901	OPTIONS	https://www.google.com	/
+20250713	19:26:47	3aa3665f-0f2f-408e-b6bc-343b9086bdc4	GET	https://www.google.com	/
+20250713	19:39:13	5b824b60-c477-4220-9260-d3b434a2a72c	OPTIONS	https://www.google.com	/
+20250713	19:39:13	7534639d-f482-4409-b65b-7b5256dd85ca	GET	https://www.google.com	/
+20250713	19:40:47	23ab98b1-815b-4dcd-b8f2-69d4d515d445	OPTIONS	https://www.google.com	/
+20250713	19:40:47	54f4b316-e950-4b61-8d03-a25b7cdd8a5a	GET	https://www.google.com	/
+20250713	19:41:29	061b9059-4186-4b3c-90ab-8eea1b839642	OPTIONS	https://www.google.com	/
+20250713	19:41:29	c71711a5-2129-484f-8ef9-e82cd0dc1d52	GET	https://www.google.com	/
+20250713	19:55:31	1d228406-4e40-4cb6-8d87-160395631512	GET	undefined	/index
+20250713	19:55:31	13c13c44-1e8a-4274-85d7-657f6156cc8c	GET	undefined	/.well-known/appspecific/com.chrome.devtools.json
+20250713	19:55:56	cc11ef44-9546-456d-b23a-d9da8cd24bf4	GET	undefined	/index
+20250713	19:55:56	bb397924-1aee-4f92-8c34-8b662bce080f	GET	undefined	/.well-known/appspecific/com.chrome.devtools.json
+20250713	19:55:56	f24e0fab-2218-4dfc-9550-f0c23c313b70	GET	undefined	/css/style.css
+20250713	20:02:20	7dc6ed7b-0018-47f1-a81d-472bbf492847	GET	undefined	/index
+20250713	20:02:20	a7b6c578-572a-4fde-a1fb-4c98db2b8b9e	GET	undefined	/.well-known/appspecific/com.chrome.devtools.json
+20250713	20:02:23	a9a6b572-3153-4eed-b236-b9f829fea2a4	GET	undefined	/index
+20250713	20:02:23	9bb41ab7-28ea-4f1a-8c3d-2357a286970e	GET	undefined	/.well-known/appspecific/com.chrome.devtools.json
+20250713	20:02:25	d94b6719-f501-4468-a70c-a2366bc860c3	GET	undefined	/index
+20250713	20:02:26	80b277bb-44c5-48d2-8a1b-97a4e88587fc	GET	undefined	/.well-known/appspecific/com.chrome.devtools.json
+20250713	20:03:13	c1c32371-f999-4f49-99a0-182793d142c8	GET	undefined	/index
+20250713	20:03:13	cc8bd950-4d8a-4045-ab4a-ea140a70784f	GET	undefined	/.well-known/appspecific/com.chrome.devtools.json
+20250713	20:03:13	faa4f3d2-44a7-4c90-bd92-e7f5b49207ab	GET	undefined	/css/style.css
+20250713	20:08:54	205988d4-7c7f-4d6e-8b77-1e1e03762665	GET	undefined	/index
+20250713	20:08:54	780358e8-8093-412b-8dd9-aa3e12a88613	GET	undefined	/.well-known/appspecific/com.chrome.devtools.json
+20250713	20:09:38	51c52da7-9b33-459c-a0e6-86a2e4881076	GET	undefined	/index
+20250713	20:09:38	d12f4b2c-ff6f-4353-b833-df12d80d3132	GET	undefined	/.well-known/appspecific/com.chrome.devtools.json
+20250713	20:09:38	8f0c63a5-8264-4528-bbea-4032edb108f5	GET	undefined	/css/style.css
+20250713	20:11:26	0493af0d-50d5-4f47-a4d4-a9ebf5045a22	GET	undefined	/none
+20250713	20:11:26	75ef6edf-c61e-4573-80a1-ae026394d7ee	GET	undefined	/.well-known/appspecific/com.chrome.devtools.json
+20250713	20:11:26	dd9a8c92-560f-4afb-a058-a9b289d509ce	GET	undefined	/css/style.css
+20250713	20:11:39	51532da1-f0f2-44a2-9cb7-56f8bcf0318e	GET	undefined	/none
+20250713	20:11:39	6552536a-9771-4f72-95c8-b567c156ad85	GET	undefined	/.well-known/appspecific/com.chrome.devtools.json
+20250713	20:11:39	c19cfece-cab2-4019-bc5a-84ac66ddf146	GET	undefined	/css/style.css
+20250713	20:12:29	722bc3c5-4edb-4644-b9f7-1b841fc4bc79	GET	undefined	/none
+20250713	20:12:29	2529ef18-9411-4204-87d9-32cc1785b307	GET	undefined	/.well-known/appspecific/com.chrome.devtools.json
+20250713	20:12:32	f7a647eb-0887-4206-b194-1af952af1af9	GET	undefined	/none
+20250713	20:12:32	14f717f7-0cc8-4f9c-9ba0-e4ab540ff3e6	GET	undefined	/.well-known/appspecific/com.chrome.devtools.json
+20250713	20:12:40	cc4fee01-0c13-4ed3-b1b0-50ed3e158931	GET	undefined	/none
+20250713	20:12:40	ff5d14fe-ee6f-486d-925e-fec948b7ef06	GET	undefined	/.well-known/appspecific/com.chrome.devtools.json
+20250713	20:12:40	b1e1ca08-8a3d-4376-baac-9f95b97cae3f	GET	undefined	/css/style.css
+20250713	20:17:04	654aab0a-2dd3-4f42-9b65-a7a5789518e0	GET	undefined	/none
+20250713	20:17:04	3d953d51-8ffe-4cb2-8c00-c3871783a838	GET	undefined	/.well-known/appspecific/com.chrome.devtools.json
+20250713	20:17:04	7676521a-0e1b-4b41-a1f2-5466b4b06440	GET	undefined	/css/style.css
+20250713	20:30:09	21da6f19-fb35-4bde-b617-c6866bbc9e64	GET	undefined	/
+20250713	20:30:09	de78fd21-38f0-4a0d-a180-ee8c89c4db94	GET	undefined	/.well-known/appspecific/com.chrome.devtools.json
+20250713	20:30:09	d9cc3593-01dd-4318-a491-2f9d7046a060	GET	undefined	/css/style.css
+20250713	20:30:48	5c5b6f32-fa3f-4954-9120-77c0dfae0a7c	GET	undefined	/subdir/test
+20250713	20:30:48	1ea69569-0cd1-4f43-a4ac-70336df4a1e2	GET	undefined	/.well-known/appspecific/com.chrome.devtools.json
+20250713	20:31:00	085d604b-7829-4d33-a141-f5688dffd134	GET	undefined	/subdir/none
+20250713	20:31:01	aeb95c29-280b-4e6f-b14c-83af7cacbf95	GET	undefined	/subdir/css/style.css
+20250713	20:31:01	4d1f696f-515f-4465-9bd4-307710b679de	GET	undefined	/.well-known/appspecific/com.chrome.devtools.json
+20250713	20:32:11	19617fc3-6990-4119-9f3d-91441238b6ce	GET	undefined	/subdir/none
+20250713	20:32:12	7890c79c-d34f-43bb-9714-902553cc8fb7	GET	undefined	/.well-known/appspecific/com.chrome.devtools.json
+20250713	20:32:12	5ecf4f2a-b78b-4713-ad00-2a715889dfaf	GET	undefined	/subdir/css/style.css
+20250713	20:38:29	b0a634d7-693e-4e19-870a-9a3dfe2425e2	GET	undefined	/
+20250713	20:38:29	6ab5b2c1-8b25-441d-b4db-8f6cbd410072	GET	undefined	/.well-known/appspecific/com.chrome.devtools.json
+20250713	20:38:29	b4b63277-915d-4802-80c8-45100ca9b766	GET	undefined	/css/style.css
+20250713	20:38:35	25a3eb96-6d00-4fa6-9dd8-1a98e8eb4144	GET	undefined	/new-page
+20250713	20:38:35	286fd14e-ca03-46e0-a13f-614df477088e	GET	undefined	/.well-known/appspecific/com.chrome.devtools.json
+20250713	20:38:35	9ec43d34-c195-432b-a23e-262a3bf1c08a	GET	undefined	/css/style.css
+20250713	20:38:35	c17d838d-a6c4-4767-b4bf-ae032a0bc0a2	GET	undefined	/img/tokyo_drift.jpg
+20250713	20:38:50	27c45231-8926-4902-bbbb-ceb385c87aeb	GET	undefined	/old-page
+20250713	20:38:50	1748b616-3d55-46d9-96e9-faa782d9956c	GET	undefined	/new-page.html
+20250713	20:38:50	655bc02c-87df-4d8d-b11c-b79de6c609be	GET	undefined	/.well-known/appspecific/com.chrome.devtools.json
+20250713	20:38:50	66861a88-793e-44d8-a58f-364573461188	GET	undefined	/css/style.css
+20250713	20:38:50	de30029d-b681-43b6-a744-625e72afa66a	GET	undefined	/img/tokyo_drift.jpg
+20250713	20:39:02	100f5ccd-38ee-410a-ab73-9e9096cb6689	GET	undefined	/index.html
+20250713	20:39:02	a4c17285-98e3-4c13-b999-0b7c114d7e47	GET	undefined	/.well-known/appspecific/com.chrome.devtools.json
+20250713	20:39:02	d75d7016-192d-457b-b008-627ffb37fb05	GET	undefined	/css/style.css
+20250713	20:54:11	e6cb8aba-f989-4bf5-8a3c-340db0acf38b	GET	undefined	/employees
+20250713	20:57:59	86eab1e2-4802-4f5b-9896-d10efd20fba5	POST	undefined	/employees
+20250713	20:59:11	e111e914-7a54-4f27-8cb0-98fc7732b5e8	POST	undefined	/employees
+20250713	20:59:47	9784bf4e-b3b5-440e-a152-1a26c62aeb23	POST	undefined	/employees
+20250713	21:00:03	a6f131f4-9b48-41ae-8f10-f36e2d3a9c49	POST	undefined	/employees
+20250713	21:03:04	06bcb54f-2553-4eb9-a05b-f2baafa0e671	PUT	undefined	/employees
+20250713	21:04:02	377b5e3e-6be7-4e80-9168-4dd3e8a7fe14	DELETE	undefined	/employees
+20250713	21:04:57	268a4958-20cc-4f18-bca7-5bc37e5c44bc	GET	undefined	/employees/1
+20250713	21:05:03	f6b94fad-7f29-4b1e-95e5-d241c49edbad	GET	undefined	/employees/2
+20250713	21:05:25	e4e962c3-90bc-41fe-b624-24f6a689e4b8	GET	undefined	/employees/1
+20250713	21:12:31	842e7c56-75f6-4c33-a785-9eb11ae15f75	GET	undefined	/employees/?id=1
+20250713	21:12:35	1c9619f3-47fa-4066-95e8-fda15101820f	GET	undefined	/employees/?id=1
+20250713	21:12:44	4426b21e-63ec-4417-bb60-162eb2f21c48	GET	undefined	/employees?id=1
+20250713	21:12:45	57857b14-3540-459e-9792-ac6ea7c0e334	GET	undefined	/employees?id=1
+20250713	21:12:52	09ab1492-39bf-473e-a884-e0d6afb4eca2	GET	undefined	/employees/1
+20250713	21:13:10	d0c2af6b-51d3-4597-8d4c-738f34beeb8a	GET	undefined	/employees/?id=1
+20250713	21:13:12	62947186-c39f-4998-913a-25dcf04e6e82	GET	undefined	/employees/?id=1
+20250713	21:13:12	e4458bef-735a-4fef-844e-b4f36ef53b2f	GET	undefined	/employees/?id=1
+20250713	21:13:13	692ea34a-89a4-4e4d-a287-49ce049d1ba9	GET	undefined	/employees/?id=1
+20250713	22:59:13	e03407b5-5c9c-4336-b9e1-23678564328a	GET	undefined	/employees
+20250713	22:59:26	1a237aa2-cd24-435c-8f7d-8a2b61ffbb6d	POST	undefined	/employees
+20250713	23:00:11	856835d4-1f93-4574-94f1-7b74284a3796	GET	undefined	/employees
+20250713	23:00:24	985d7bcf-fdc0-4609-b376-e62f43b07d91	POST	undefined	/employees
+20250713	23:03:37	33c42d01-be42-40f1-b313-d938b2884fdf	POST	undefined	/employees
+20250713	23:04:10	7a22d0e5-a7bf-4ff0-b121-3cf7942b8e9c	POST	undefined	/employees
+20250713	23:05:10	8595ff51-6cc7-4404-8028-d9dfbacdd621	GET	undefined	/employees
+20250713	23:05:14	c79904b1-bf71-4a29-b806-8f1f3ad89340	POST	undefined	/employees
+20250713	23:05:18	da211ff2-a085-4803-ab8d-0709a3c81e9b	POST	undefined	/employees
+20250713	23:05:22	b5b7ff71-4e08-459c-b266-3cf07cec33d3	POST	undefined	/employees
+20250713	23:05:27	dbfa39de-32a3-4940-89b6-31e6d72ae27e	GET	undefined	/employees
+20250713	23:05:29	9153ccaf-b59c-47d3-bebb-b31a26f07290	GET	undefined	/employees
+20250713	23:07:07	2078a75f-dec6-418f-8f6c-9c6e59a55bc9	POST	undefined	/employees
+20250713	23:08:18	29fad332-182e-4e54-91c2-6213a7eef16d	POST	undefined	/employees
+20250713	23:09:20	5f0c1b7c-f232-4761-8a9b-b09e098fdaa0	POST	undefined	/employees
+20250713	23:10:40	70ff585c-cf92-4d12-8a15-aab785f1202d	POST	undefined	/employees
+20250713	23:12:23	920c2f4b-cdfd-4ef6-bbd1-3eb91d397dc8	GET	undefined	/employees
+20250713	23:12:27	3f35461d-c125-4c59-a5e4-09b630fb1f32	POST	undefined	/employees
+20250713	23:13:00	ab4d73af-ee8b-43cf-8668-2e5729cab0a7	PUT	undefined	/employees
+20250713	23:13:28	d20d18eb-fb09-4dd3-be2e-866327193b8c	DELETE	undefined	/employees
+20250713	23:13:49	25035bec-203b-4350-8f7f-3cd4f62af3bd	GET	undefined	/employees/?id=1
+20250722	12:16:41	ec167362-ca5d-4fa0-8526-8a3e85f56a25	GET	undefined	/
+20250722	12:16:41	ec27d7c8-a490-47a8-8aba-d9d8f4f8b989	GET	undefined	/css/style.css
+20250722	12:17:47	83c2eb29-155c-435e-9b23-8f331cc5313c	GET	undefined	/index.html
+20250722	12:17:47	f312378a-3310-4176-96c9-0921ff76a8b9	GET	undefined	/.well-known/appspecific/com.chrome.devtools.json
+20250722	12:17:47	df6989e3-3e90-49c8-8ca6-3b42b47fc6b3	GET	undefined	/css/style.css
+20250722	12:19:11	2660e103-b659-4c98-9db5-5c1b0211954a	GET	undefined	/employees
+20250722	12:19:29	983ba95d-dbc6-413b-bce0-e58cf9a114d7	POST	undefined	/employees
+20250722	12:19:37	123e409f-e5e5-4526-9353-3d1754d33e80	GET	undefined	/employees
+20250722	12:20:05	da653417-7cf1-4baf-83fd-08cbcf5a7f3f	PUT	undefined	/employees
+20250722	12:20:25	e14cb745-d980-4dd4-9026-bc87f11d6204	PUT	undefined	/employees
+20250722	12:20:40	3b032673-731b-4d47-8881-d068f0c461ef	DELETE	undefined	/employees
+20250722	12:20:54	8201ea5a-47ee-46dd-918b-871eafb9d19a	GET	undefined	/employees/?id=1
+20250722	12:21:05	b094e10b-f75e-4dc2-abe9-ff364647fee3	GET	undefined	/employees/?id=1
+20250722	12:21:23	81d4007d-00dd-4a51-a9aa-ba9b8b47192e	GET	undefined	/employees
+20250722	12:21:29	4fb93ec0-9ec1-4878-93c0-094568712765	GET	undefined	/employees/?id=1
+20250722	12:21:35	95bff0b0-b555-4ff2-b0e9-4bfe6ab844a2	GET	undefined	/employees/?id=1
+20250722	12:21:42	e8649be9-a29a-42a1-8487-4edf16f08b38	GET	undefined	/employees/?id=1
+20250722	12:22:25	d87ba169-5eeb-483b-82d8-a0d5b3f5c0da	GET	undefined	/index.html
+20250722	12:22:25	810c8f8e-9384-4631-89d0-78c7da169a98	GET	undefined	/.well-known/appspecific/com.chrome.devtools.json
+20250722	12:22:25	ad461576-f8f5-42cd-bc0d-017237d78906	GET	undefined	/css/style.css
+20250722	12:22:27	079b4761-45b2-40a8-bc4f-4c692f228055	GET	undefined	/index.html
+20250722	12:22:28	4ae34697-beb5-4a03-a60e-5eeb4e2bb94a	GET	undefined	/.well-known/appspecific/com.chrome.devtools.json
+20250722	12:22:28	6e5692d0-f4f0-48d0-b33f-4f154322cd5d	GET	undefined	/css/style.css
+20250722	12:22:39	2e387031-1c50-4f9b-97b0-9d1a0d56438f	GET	undefined	/index.html
+20250722	12:22:39	3fb15cd0-ba7f-4ff7-9cc3-511dda2c5374	GET	undefined	/.well-known/appspecific/com.chrome.devtools.json
+20250722	12:22:40	bec83510-6f4e-4876-b19f-cd5d52f6036b	GET	undefined	/css/style.css
+20250722	12:22:51	738f371e-08d0-4c89-90e5-b26ccf6dec74	GET	undefined	/employees
+20250722	12:23:03	86d58552-a60e-4dba-8a59-694df9286fa6	GET	undefined	/employees/?id=1
+20250722	12:23:21	7408623f-4f06-4b33-9883-14118c76fba2	GET	undefined	/index.html
+20250722	12:23:21	3d2b3815-b78b-4963-80f3-7037f0f47315	GET	undefined	/.well-known/appspecific/com.chrome.devtools.json
+20250722	12:23:21	2058be38-1563-4c26-be5f-ba3eb8fc1a4a	GET	undefined	/css/style.css
+20250722	12:23:30	7020f91b-d8c8-46db-9cb5-1290c46e7ed7	GET	undefined	/employees/?id=1
+20250722	12:24:59	f54d88e0-48e5-430f-89c1-d38a74fbb9d7	GET	undefined	/employees/?id=1
+20250722	12:25:13	3b9e095e-3b4f-453c-a451-8c39bfec11ef	GET	undefined	/employees/?id=1
+20250722	12:25:13	1a7d8e35-a4ff-47e4-b8f2-62068722010e	GET	undefined	/.well-known/appspecific/com.chrome.devtools.json
+20250722	12:25:19	10e2ce6a-f74b-479d-8d8d-540c898cf730	GET	undefined	/employees/1
+20250722	12:25:19	3184c8d6-031e-45b2-978f-12810f7f9279	GET	undefined	/.well-known/appspecific/com.chrome.devtools.json
+20250722	12:25:42	a1d29f76-3b94-491e-9490-bf0411ed9ee4	GET	undefined	/employees/1
+20250722	12:25:47	c637303c-ed49-4696-a3f7-b4743a35e5a4	GET	undefined	/employees/1
+20250722	12:25:48	291545e9-c83b-48c6-9926-746594dd404f	GET	undefined	/employees/1
+20250722	12:25:50	4b9b9f0b-efcf-4a31-bc48-d5682fea1719	GET	undefined	/employees/1
+20250722	12:26:12	5154a5b8-0091-4c76-879f-c15eaa905267	GET	undefined	/employees/?id=1
+20250722	12:26:15	531c6683-2f9a-4ca7-a65b-1664f9c6ce71	GET	undefined	/employees/?id=1
+20250722	12:26:42	f2b8195b-183b-492b-b922-2b469f2a0847	GET	undefined	/employees/3
+20250722	12:26:54	ae95b78f-e8e4-440e-b412-7f8cc865a5fa	GET	undefined	/employees/1
+20250722	13:02:09	01a1b72a-e087-4664-8e81-c6a65e030917	POST	undefined	/register
+20250722	13:04:40	e8f5b506-5232-4177-a772-d2a90c45e57a	POST	undefined	/register
+20250722	13:05:17	7d6b62ba-95bf-41ad-946b-e989f72f8cfc	POST	undefined	/register
+20250722	13:23:22	cf8f0467-6c12-4cc8-bcf1-8f8c247d0e73	POST	undefined	/auth
+20250722	13:23:40	4cc0c43e-bd53-4c30-a092-096a3eabc2b8	POST	undefined	/auth
+20250722	14:27:11	cff6019d-557e-4f8d-963f-8c91d022e595	POST	undefined	/auth
+20250722	14:28:26	8a3ea5d1-b085-468d-8eaf-3f2076498647	GET	undefined	/employees
+20250722	14:28:59	fb9bdd38-15f3-463a-bee9-b80d3d403022	POST	undefined	/auth
+20250722	14:29:12	95030e69-64e2-465f-a1bb-2ada82ba1535	GET	undefined	/employees
+20250722	14:32:29	c4530556-5b5e-4c09-84a1-8d5dd709fcd0	POST	undefined	/auth
+20250722	14:32:43	ee13a72a-6a56-4761-b2f8-04c86ffe1fc6	GET	undefined	/employees
+20250722	14:33:28	f0f35926-1239-4ccd-bf52-c2e47736ddee	GET	undefined	/employees
+20250722	14:33:37	a04f0f23-0d38-463e-a5bb-8ec06756bfe2	POST	undefined	/employees
+20250722	14:52:13	176bf46e-27ad-467c-8698-9851332d0930	GET	undefined	/refresh
+20250722	14:52:26	a691bf63-7321-447c-bdaa-d41be9ccc3fe	POST	undefined	/auth
+20250722	14:52:30	e02d57b4-1a2b-4b4a-815b-c8e534c98ed8	GET	undefined	/refresh
+20250722	14:53:33	fb42e018-c1e8-4555-8292-229efdee4878	GET	undefined	/refresh
+20250722	15:17:00	16ab345f-efc8-4bd1-bab8-696aabdad414	POST	undefined	/auth
+20250722	15:17:06	ea41acae-93ae-42cb-a423-400cdb35004c	GET	undefined	/refresh
+20250722	15:17:51	b65de0ec-c143-4817-9cb0-8c531e44bea4	GET	undefined	/refresh
+20250722	15:18:12	78d68807-6667-461c-b707-066712498038	GET	undefined	/employees
+20250722	15:19:25	ee7d12bb-c5a7-4e0d-b388-fceb03dd9508	POST	undefined	/auth
+20250722	15:19:51	3b24e605-8ca1-497c-b845-9a167bbc38d1	GET	undefined	/employees
+20250724	13:33:10	e22d30ad-204f-4077-8019-22c5a9494f08	GET	undefined	/employees/1
+20250724	13:33:10	412051cf-e365-4f09-9cb1-56478e17ec3b	GET	undefined	/favicon.ico
+20250724	13:33:41	a5eeff4f-9a3e-42cb-bb77-bdc2f12b4e64	POST	undefined	/auth
+20250724	13:35:28	c198ca99-873c-4182-8590-a17a942bd630	GET	undefined	/logout
+20250724	13:35:55	9c4692bf-f63f-4712-a650-c0f4bcc52403	GET	undefined	/refresh
+20250724	13:36:10	b38b7d3f-87b0-4376-8c45-46b490ecb4c8	GET	undefined	/refresh
+20250724	14:55:01	209119ba-2446-4f57-82eb-62aa5bf02296	POST	undefined	/auth
+20250724	14:55:32	40aa9240-48f1-4e55-8a0f-8317eea701fc	POST	undefined	/employees
+20250724	14:56:08	85262e2b-ba1c-4473-8c4e-b3d4ca238b07	POST	undefined	/auth
+20250724	14:56:36	7fdbf6f3-df7f-46d8-97b9-274d97c11678	POST	undefined	/employees
+20250724	14:56:53	bccf6545-3671-4c8c-a698-b695bfecf118	DELETE	undefined	/employees
+20250724	14:57:09	0d4f0c9a-6b5a-4097-8873-9434541915bc	POST	undefined	/auth
+20250724	14:57:29	3bdab306-a3b7-40f2-9c02-621bc8c73184	DELETE	undefined	/employees
+20250730	13:52:46	f2d9b612-c222-4a92-b97d-8e4f15587c6d	POST	undefined	/register
+20250730	13:53:39	060dacd1-ff89-4fc6-bfd8-0c5bb93355e4	POST	undefined	/register
+20250731	13:40:31	e30d5b23-c43b-4b1a-81a4-374135d673d3	POST	undefined	/register
+20250731	13:41:03	449de237-edfe-4235-96b6-857ae728b2cf	POST	undefined	/register
+20250731	13:41:14	ae24452d-d3c8-4af4-899a-add25e8dae66	POST	undefined	/auth
+20250731	13:42:30	cd92eb0c-053b-4f09-b94e-88e33f8c0ce0	GET	undefined	/refresh
+20250731	13:44:26	30f03dda-e6e3-4dd7-90c1-71d0bed48d86	POST	undefined	/auth
+20250731	13:44:38	48846afb-40d8-4593-9edb-f27fdf42af7f	GET	undefined	/refresh
+20250731	13:47:19	ad5d76d9-727a-4ec6-8e2c-3ad9159df957	POST	undefined	/auth
+20250731	13:47:30	1b9d6437-b214-4204-a194-49e59dd3e78a	GET	undefined	/refresh
+20250731	13:52:31	3d4de31b-66dd-4672-8442-ca8e312ebb58	POST	undefined	/auth
+20250731	13:52:35	b32ea34f-6d35-4b24-a477-03e38147b323	GET	undefined	/refresh
+20250731	13:53:56	74a2b802-f244-45e8-b71d-0d93ea687cb9	POST	undefined	/auth
+20250731	13:54:08	d9af4284-d72a-4455-96d6-800fc78dbfa8	GET	undefined	/logout
+20250731	14:42:45	e1a97e96-54da-4e8e-928f-7d767047cf29	POST	undefined	/auth
+20250731	14:43:04	c8af2013-0849-492c-bf6b-17471d3441fd	GET	undefined	/employees
+20250731	14:44:33	536f0017-5a80-4eaf-839b-159301314e93	POST	undefined	/auth
+20250731	14:44:58	6ce3728e-f751-4745-afdb-66bcea1f3a8d	GET	undefined	/employees
+20250731	14:47:11	5511da3d-af8e-4ca6-baad-84d957111fee	POST	undefined	/auth
+20250731	14:47:28	42c62069-8be7-4ad2-bb73-197dfbfff287	GET	undefined	/employees
+20250731	14:51:17	17c7d5b0-5bc1-43e2-b38d-85c3497b904c	POST	undefined	/auth
+20250731	14:51:30	99553a6c-34f1-420f-8ba4-0a9a3ea4c8f9	POST	undefined	/employees
+20250731	14:52:05	3eaa57c9-f3a8-41df-9a79-753fe5757027	POST	undefined	/auth
+20250731	14:52:17	0dc6a411-3c0d-4706-be16-2afd9e4d7650	POST	undefined	/auth
+20250731	14:52:29	dc4087de-aaae-4291-9db2-c964c6230b9e	POST	undefined	/employees
+20250731	14:57:20	cfe7009b-6b35-43ee-a7ea-6b652bcf65d7	POST	undefined	/auth
+20250731	14:57:35	decf513d-5442-4f03-b247-a99e8bfcc166	GET	undefined	/employees
+20250731	14:59:01	25560e72-fe85-42ed-83d8-48c316a89321	POST	undefined	/auth
+20250731	14:59:15	bb1d0679-6b48-4c0c-af32-9180cdb3c8e4	POST	undefined	/auth
+20250731	14:59:41	78ba1a71-f80c-402b-b6de-742a5b3006b8	GET	undefined	/employees/688bd815667662aca5df12de
+20250731	15:02:39	4bd95f96-b48f-44c2-86f9-6cc77188087c	POST	undefined	/auth
+20250731	15:03:11	6e799ff6-b825-493a-b186-c213b1600e6a	POST	undefined	/employees
+20250731	15:03:18	eb3c4c83-4fcf-44c1-a2be-46e0ab1632db	POST	undefined	/employees
+20250731	15:03:27	d45102f2-e33f-49c9-8cba-5d0626dfba92	POST	undefined	/auth
+20250731	15:03:38	663521af-79ae-48ba-bda7-f50bc0870b4a	POST	undefined	/employees
+20250731	15:06:23	da9a1b8d-55fe-4f01-a550-cea1fd99f707	POST	undefined	/auth
+20250731	15:06:33	f2f3954a-bb88-4dda-b7cc-b74d60281da2	POST	undefined	/employees
+20250801	14:23:05	2fc1340b-2e4d-44a9-a6a5-d8beb0596cbc	GET	undefined	/favicon.ico
+20250801	14:36:02	132e7a29-62d6-4e47-b69c-fab932f75639	POST	undefined	/auth
+20250801	14:36:31	4d4c5efc-ce27-4590-b304-4bdc195d82c7	POST	undefined	/employees
+20250801	14:36:56	d4c9433e-a0d6-4a50-9a41-027e21f8c23b	GET	undefined	/employees/688d254fc7c0d09d53697e03
+20250801	14:37:27	17971e20-9475-47ff-a701-ac217f9d5f6d	POST	undefined	/auth
+20250801	14:37:41	28151c25-93ed-4fa6-855c-2b49ea6514bb	GET	undefined	/employees/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc2VySW5mbyI6eyJ1c2VybmFtZSI6ImNoZXIiLCJyb2xlcyI6WzIwMDEsMTk4NCw1MTUwXX0sImlhdCI6MTc1NDA4MDY0NywiZXhwIjoxNzU0MDgwNjc3fQ.hbtQFtaTTni-d3K_N2EhniGQiP2p7Jb0eJ59W2up9ZI
+20250801	14:37:56	bc97acf3-07ec-4039-a8fb-b2661e58e1ed	POST	undefined	/auth
+20250801	14:38:36	3c9984f3-f774-4a1c-823c-24e0ffaadf7e	GET	undefined	/employees/688d254fc7c0d09d53697e03
+20250801	14:38:44	0644f36b-e1b2-409b-baab-ab119a3412b1	POST	undefined	/auth
+20250801	14:39:04	c39d6d7b-ea36-4a54-a6f9-72d34f9cbc37	GET	undefined	/employees/688d254fc7c0d09d53697e03
+20250801	14:39:43	dcfd5bec-5a2a-4eaf-afb9-a8d5d0933f49	POST	undefined	/auth
+20250801	14:39:55	726bb775-4681-4843-b864-c76f8a744bbf	GET	undefined	/employees
+20250801	14:43:03	982f43c6-b3be-4a4e-99e9-69b838962c4d	POST	undefined	/auth
+20250801	14:43:18	0b9275d0-5b51-4d0f-8a26-e2cd141195b4	PUT	undefined	/employees
+20250801	14:43:54	e50ef73f-0edd-4e7c-b268-05929fc94e05	POST	undefined	/auth
+20250801	14:44:21	62b260cd-4e55-4027-a176-aaa9a7d6b0a5	DELETE	undefined	/employees
+20250801	14:50:09	bf19130f-0ca3-4fd4-a84b-3e722d39f10f	POST	undefined	/auth
+20250801	14:50:49	fbb4d7cb-557e-4683-9030-acf934df5c40	POST	undefined	/auth
+20250801	14:51:00	34a81a65-5396-405e-a3f7-32e80e99588d	DELETE	undefined	/employees
+20250801	14:52:20	80efedb1-f706-42b0-a139-2178dea511e9	POST	undefined	/auth
+20250801	14:52:32	16321e79-1f6a-419a-87a0-8798f85cca43	DELETE	undefined	/employees
+20250801	14:58:36	f0b350b4-59bb-451e-a85c-5ab7a36064c6	POST	undefined	/auth
+20250801	14:58:52	33e0e779-7f88-4a32-ac59-71edb0401473	POST	undefined	/employees
+20250801	14:58:57	8a2c471d-d24f-4939-a558-2ea0672862fe	POST	undefined	/auth
+20250801	14:59:17	a8035bdb-a9ba-4ad7-a295-efbcb6bba716	DELETE	undefined	/employees
+20250801	14:59:44	cd04fa92-1c7a-478d-b31e-af723ad04c34	POST	undefined	/auth
+20250801	14:59:53	5dc81f78-8e33-485a-820b-a4bebb68f9fe	POST	undefined	/employees
+20250801	15:00:10	0175352e-5b2e-4c98-ba4b-84f52aa00048	DELETE	undefined	/employees

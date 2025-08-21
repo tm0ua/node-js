@@ -1,0 +1,6 @@
+20250711	18:58:56	f43faec5-c283-46ce-a56e-92f7e1b0320d	TypeError: fsPromises.readFil is not a function
+20250713	20:08:54	81f16812-7e83-4dda-9dde-42df936d28d6	Error: Not allowed by CORS
+20250713	20:08:55	feebf6d7-2dcf-4303-8ac4-adefd832702c	Error: Not allowed by CORS
+20250713	20:57:59	e529ae27-8d53-4972-8974-10b4db92ae29	TypeError: req.json is not a function
+20250713	20:59:11	e6542488-3d6e-4c1c-91cb-74c819ace273	TypeError: req.json is not a function
+20250731	13:47:30	c2fedc16-1e98-428c-9714-d8532cbc23c7	ReferenceError: user is not defined
